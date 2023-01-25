@@ -20,6 +20,7 @@ public class Main {
             }
         }
         System.out.println();
+
         int[] arr2 = Arrays.copyOfRange(arr, 4, 8);
         String str2 = Arrays.toString(arr2);
         return str2;
